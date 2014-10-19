@@ -1,0 +1,23 @@
+C:\Users\gu425d\AppData\Local\Temporary Projects\7FindManyDuplicatesInArray\bin\Debug\7FindManyDuplicatesInArray.exe
+C:\Users\gu425d\AppData\Local\Temporary Projects\7FindManyDuplicatesInArray\bin\Debug\7FindManyDuplicatesInArray.pdb
+C:\Users\gu425d\AppData\Local\Temporary Projects\7FindManyDuplicatesInArray\obj\x86\Debug\_7FindManyDuplicatesInArray.Form1.resources
+C:\Users\gu425d\AppData\Local\Temporary Projects\7FindManyDuplicatesInArray\obj\x86\Debug\_7FindManyDuplicatesInArray.Properties.Resources.resources
+C:\Users\gu425d\AppData\Local\Temporary Projects\7FindManyDuplicatesInArray\obj\x86\Debug\7FindManyDuplicatesInArray.csproj.GenerateResource.Cache
+C:\Users\gu425d\AppData\Local\Temporary Projects\7FindManyDuplicatesInArray\obj\x86\Debug\7FindManyDuplicatesInArray.exe
+C:\Users\gu425d\AppData\Local\Temporary Projects\7FindManyDuplicatesInArray\obj\x86\Debug\7FindManyDuplicatesInArray.pdb
+C:\Users\gu425d\Desktop\Other\C# Practice\Top 30 Programing Interview Questions\7FindManyDuplicatesInArray\7FindManyDuplicatesInArray\obj\x86\Debug\7FindManyDuplicatesInArray.exe
+C:\Users\gu425d\Desktop\Other\C# Practice\Top 30 Programing Interview Questions\7FindManyDuplicatesInArray\7FindManyDuplicatesInArray\obj\x86\Debug\7FindManyDuplicatesInArray.pdb
+C:\Users\gu425d\Desktop\Other\C# Practice\Top 30 Programing Interview Questions\7FindManyDuplicatesInArray\7FindManyDuplicatesInArray\obj\x86\Debug\7FindManyDuplicatesInArray.csprojResolveAssemblyReference.cache
+C:\Users\gu425d\Desktop\Other\C# Practice\Top 30 Programing Interview Questions\7FindManyDuplicatesInArray\7FindManyDuplicatesInArray\obj\x86\Debug\_7FindManyDuplicatesInArray.Form1.resources
+C:\Users\gu425d\Desktop\Other\C# Practice\Top 30 Programing Interview Questions\7FindManyDuplicatesInArray\7FindManyDuplicatesInArray\obj\x86\Debug\_7FindManyDuplicatesInArray.Properties.Resources.resources
+C:\Users\gu425d\Desktop\Other\C# Practice\Top 30 Programing Interview Questions\7FindManyDuplicatesInArray\7FindManyDuplicatesInArray\obj\x86\Debug\7FindManyDuplicatesInArray.csproj.GenerateResource.Cache
+C:\Users\gu425d\Desktop\Other\C# Practice\Top 30 Programing Interview Questions\7FindManyDuplicatesInArray\7FindManyDuplicatesInArray\bin\Debug\7FindManyDuplicatesInArray.exe
+C:\Users\gu425d\Desktop\Other\C# Practice\Top 30 Programing Interview Questions\7FindManyDuplicatesInArray\7FindManyDuplicatesInArray\bin\Debug\7FindManyDuplicatesInArray.pdb
+C:\Users\GARRET\Documents\GitHub\7FindManyDuplicatesInArray\7FindManyDuplicatesInArray\obj\x86\Debug\7FindManyDuplicatesInArray.exe
+C:\Users\GARRET\Documents\GitHub\7FindManyDuplicatesInArray\7FindManyDuplicatesInArray\obj\x86\Debug\7FindManyDuplicatesInArray.pdb
+C:\Users\GARRET\Documents\GitHub\7FindManyDuplicatesInArray\7FindManyDuplicatesInArray\bin\Debug\7FindManyDuplicatesInArray.exe
+C:\Users\GARRET\Documents\GitHub\7FindManyDuplicatesInArray\7FindManyDuplicatesInArray\bin\Debug\7FindManyDuplicatesInArray.pdb
+C:\Users\GARRET\Documents\GitHub\7FindManyDuplicatesInArray\7FindManyDuplicatesInArray\obj\x86\Debug\7FindManyDuplicatesInArray.csprojResolveAssemblyReference.cache
+C:\Users\GARRET\Documents\GitHub\7FindManyDuplicatesInArray\7FindManyDuplicatesInArray\obj\x86\Debug\_7FindManyDuplicatesInArray.Form1.resources
+C:\Users\GARRET\Documents\GitHub\7FindManyDuplicatesInArray\7FindManyDuplicatesInArray\obj\x86\Debug\_7FindManyDuplicatesInArray.Properties.Resources.resources
+C:\Users\GARRET\Documents\GitHub\7FindManyDuplicatesInArray\7FindManyDuplicatesInArray\obj\x86\Debug\7FindManyDuplicatesInArray.csproj.GenerateResource.Cache
